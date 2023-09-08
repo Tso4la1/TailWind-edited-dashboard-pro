@@ -1,2 +1,2 @@
 export * from './UserCard';
-export * from './Activitiesgrid'
+export * from './ActivitiesGrid'
